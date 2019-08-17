@@ -1,0 +1,23 @@
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\bin\Debug\TINY Compiler.exe.config
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\bin\Debug\TINY Compiler.exe
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\bin\Debug\TINY Compiler.pdb
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.csprojResolveAssemblyReference.cache
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.MainForm.resources
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.Properties.Resources.resources
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.csproj.GenerateResource.Cache
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.exe
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.pdb
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.ScanForm.resources
+C:\Users\moham\documents\visual studio 2013\Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.ParserForm.resources
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\bin\Debug\TINY Compiler.exe.config
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\bin\Debug\TINY Compiler.exe
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\bin\Debug\TINY Compiler.pdb
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.csprojAssemblyReference.cache
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.MainForm.resources
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.ParserForm.resources
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.Properties.Resources.resources
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY_Compiler.ScanForm.resources
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.csproj.GenerateResource.cache
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.exe
+D:\Study\Visual Studio Projects\TINY Compiler\TINY Compiler\obj\Debug\TINY Compiler.pdb
